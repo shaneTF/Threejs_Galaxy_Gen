@@ -1,4 +1,4 @@
-# Three.js Journey
+# From Three.js Journey by Bruno Simon 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
