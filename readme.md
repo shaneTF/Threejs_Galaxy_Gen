@@ -1,4 +1,4 @@
-# From Three.js Journey by Bruno Simon 
+# Three.js Journey
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,3 +14,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+From the Threejs journey course by Bruno Simon
